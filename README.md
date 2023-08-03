@@ -1,14 +1,15 @@
 # SSTV[PL]
 
-누구나 자신만의 방송을 송출 하거나 다른 사람의 스트리밍을 시청 할 수 있으며 후원과 광고를 통해 수익창출까지 가능한 웹 서비스
-진행기간: 2023년 3월 28일 → 2023년 6월 5일
-사용 Skill: Docker, Express, Java, JavaScript, Jenkins, MyBatis, MySQL, NaverCloud, Node.js, React.js, Redis, SpringBoot
+누구나 자신만의 방송을 송출 하거나 다른 사람의 스트리밍을 시청 할 수 있으며 후원과 광고를 통해 수익창출까지 가능한 웹 서비스  
+진행기간: 2023년 3월 28일 → 2023년 6월 5일  
+사용 Skill: Docker, Express, Java, JavaScript, Jenkins, MyBatis, MySQL, NaverCloud, Node.js, React.js, Redis, SpringBoot  
 
 ## 📝 상세 내용
 
 ---
 ### 시연영상
-<iframe width="966" height="522" src="https://www.youtube.com/embed/ClLhoWd68eo" title="NaverCloud AIaaS 2기 SSTV, 시현영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[시연영상](https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s)    
+
 
 
 <aside>
