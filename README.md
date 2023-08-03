@@ -4,13 +4,13 @@
 진행기간: 2023년 3월 28일 → 2023년 6월 5일
 사용 Skill: Docker, Express, Java, JavaScript, Jenkins, MyBatis, MySQL, NaverCloud, Node.js, React.js, Redis, SpringBoot
 
-![스크린샷 2023-07-23 오후 7.22.02.png](SSTV%5BPL%5D%20caedcdd448574230afe5937803b6ac5a/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-07-23_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_7.22.02.png)
 
 ## 📝 상세 내용
 
 ---
 
 [https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s](https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s)
+[![Video Label](http://img.youtube.com/vi/ClLhoWd68eo&t=2s/0.jpg)](https://youtu.be/ClLhoWd68eo&t=2s)
 
 <aside>
 💡 **“[네이버클라우드] 클라우드 기반의 AIaaS 개발자 과정”** 부트캠프에 참여하면서 개발한 팀 프로젝트입니다. 회원가입만 한다면 누구든지 자신만의 스트리밍을 송출하고 다른 회원들의 스트리밍을 시청 가능하며 서브 시스템으로는 스트리밍·후원·광고·정지·신고·커뮤니티·채팅·SNS로그인·결제 등이 있습니다.
