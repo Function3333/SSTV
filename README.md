@@ -8,7 +8,8 @@
 
 ---
 ### 시연영상
-[시연영상](https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s)    
+<a href="https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s" target=blank alt="시연영상">    
+<img src="https://github.com/Function3333/SSTV/assets/115130757/a63ecbfb-366e-4bd6-a611-275cf977073f" />    
 
 
 
