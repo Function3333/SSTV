@@ -6,10 +6,7 @@
 
 ## 📝 상세 내용
 
----
-### 시연영상
-<a href="https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s" target=blank alt="시연영상">    
-<img src="https://github.com/Function3333/SSTV/assets/115130757/a63ecbfb-366e-4bd6-a611-275cf977073f" />    
+---    
 
 
 
@@ -129,4 +126,6 @@
 
 ### **👉🏻[개발문서](https://drive.google.com/file/d/16rpcxlEaF1jE1zu4NNm2QKRmzrr3ziXH/view?usp=sharing)**
 
-### **👉🏻[발표영상](https://www.youtube.com/watch?v=1nqyNu48TiA&t=1136s)**
+### **👉🏻[발표영상](https://www.youtube.com/watch?v=1nqyNu48TiA&t=1136s)**    
+
+### **👉🏻[시연영상](https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s)**
