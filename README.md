@@ -8,9 +8,9 @@
 ## 📝 상세 내용
 
 ---
+### 시연영상
+[![Video Label](http://img.youtube.com/vi/ClLhoWd68eo&t=2s/0.jpg)](https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s)
 
-[https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s](https://www.youtube.com/watch?v=ClLhoWd68eo&t=2s)
-[![Video Label](http://img.youtube.com/vi/ClLhoWd68eo&t=2s/0.jpg)](https://youtu.be/ClLhoWd68eo&t=2s)
 
 <aside>
 💡 **“[네이버클라우드] 클라우드 기반의 AIaaS 개발자 과정”** 부트캠프에 참여하면서 개발한 팀 프로젝트입니다. 회원가입만 한다면 누구든지 자신만의 스트리밍을 송출하고 다른 회원들의 스트리밍을 시청 가능하며 서브 시스템으로는 스트리밍·후원·광고·정지·신고·커뮤니티·채팅·SNS로그인·결제 등이 있습니다.
