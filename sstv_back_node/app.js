@@ -15,11 +15,6 @@ const reportRouter = require('./routes/ReportRouter');
 const banRouter = require('./routes/BanRouter');
 const userRouter = require('./routes/UserRouter');
 
-//api 요청에 사용할 key
-global.accessKey = 'z4Xcnb9Fi7MmuSeksVf4';
-global.secretKey = 'nt9eOEVgBxjdmjqOgP9Xee44ADNmEDT171bekE2u';
-global.clientId = 'ie3vug56gz';
-global.clientSecret = 'HAqoUe2ZG2GxgZDVweFjB4DicnttKodNFP2yfp6y';
 global.adCycle = 1000 * 60 * 60;
 
 setInterval(async () => {
